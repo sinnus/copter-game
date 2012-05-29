@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="3,3,2" type="haXe">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/distr/haxe/nme/3,3,2" />
+      <root url="file://$USER_HOME$/distr/haxe/gm2d/1,1" />
+      <root url="file://$USER_HOME$/distr/haxe/swf/1,11" />
+      <root url="file://$USER_HOME$/distr/haxe/hxcpp/2,09,1" />
+      <root url="file://$USER_HOME$/distr/haxe/actuate/1,40" />
+      <root url="file://$USER_HOME$/distr/haxe/jquery/1,01" />
+      <root url="file://$USER_HOME$/distr/haxe/spritesheet/1,07" />
+    </SOURCES>
+  </library>
+</component>
